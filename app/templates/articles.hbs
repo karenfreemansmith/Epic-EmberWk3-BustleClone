@@ -7,7 +7,7 @@
         <div class="col-md-6">
           <div class="panel panel-default">
             {{#link-to 'articles' model.id}}<div class="panel-heading" {{action 'close'}} >{{model.headline}}</div>{{/link-to}}
-            <div class="panel-body">{{model.content}}</div>
+            <div class="panel-body">{{{story.content}}}</div>
             <div class="panel-footer">By {{model.author}}</div>
           </div>
         </div>
