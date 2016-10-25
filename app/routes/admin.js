@@ -20,6 +20,9 @@ export default Ember.Route.extend({
     destroyArticle(article) {
       article.destroyRecord();
       this.transitionTo('admin');
-    }
+    },
+      close() {
+        $('.sidebar').slideUp();
+      }
   }
 });
