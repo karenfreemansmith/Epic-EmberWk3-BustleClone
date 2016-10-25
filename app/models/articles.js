@@ -5,4 +5,5 @@ export default DS.Model.extend({
   content: DS.attr(),
   headline: DS.attr(),
   image: DS.attr(),
+  tags: DS.attr()
 });
