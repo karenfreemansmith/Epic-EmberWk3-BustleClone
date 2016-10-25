@@ -20,6 +20,8 @@ Router.map(function() {
   this.route('privacy');
   this.route('dmca');
   this.route('contact');
+  this.route('articles', {path: '/articles/:articles_id'});
+  this.route('admin');
 });
 
 export default Router;

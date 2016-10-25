@@ -20,27 +20,38 @@
   display: none;
 }
 
+.x-img {
+  width: 470px;
+  height: 245px;
+  box-shadow: none;
+  object-fit: cover;
+}
+
 #X {
   font-size: 30px;
   float: left;
 }
 
-.panel-default > .panel-heading {
+.spacing {
+  padding-bottom: 20px;
+}
+
+.sidebar .panel-heading {
   text-align: center;
   background-color: #83e4da;
 }
-.panel-default > .panel-heading a {
+.sidebar .panel-heading a {
   color: #f9fefd !important;
   font-size: 13px;
   cursor:pointer;
   text-decoration: none;
 }
 
-.panel-default > .panel-body {
+.sidebar .panel-body {
   background-color: #67d2dc;
   height: 100vh;
 }
-.panel-default > .panel-body a {
+.sidebar .panel-body a {
   color: #f9fefd !important;
   font-size: 13px;
   cursor:pointer;
