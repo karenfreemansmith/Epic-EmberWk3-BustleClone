@@ -1,0 +1,14 @@
+<div class="row">
+  {{#each model as |story|}}
+    <div class="row">
+      <div class="col-md-6">
+        <img class="img-responsive" src="{{story.image}}" />
+      </div>
+      <div class="col-md-6">
+        <h1>{{story.headline}}</h1>
+        <p>By {{story.author}}</p>
+        <div>{{story.content}}</div>
+      </div>
+    </div>
+    {{/each}}
+</div>
