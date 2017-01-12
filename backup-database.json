@@ -1,0 +1,27 @@
+{
+  "articles":
+  [
+    {
+      "id": 1,
+      "author": "Melissa Cruz",
+      "headline": "7 Times Women Supported Women in the Election",
+      "content": "This election has been a bit of a conundrum for women. On the one hand, it has given us our best and closest chance at the first female president, but it has also produced extreme vitriol against women not seen in any previous presidential election. Thanks to Donald Trump (as well as many of the Republican candidates that came before him), female voters have been dealt an onslaught of attacks against their bodies and mental wellbeing. But thankfully, those attacks have inspired women to support other women throughout the election, creating a camaraderie both online and in person.",
+      "tags": "news",
+      "image": "https://typeset-beta.imgix.net/rehost/2016/10/24/5e0ce080-b7ec-4997-a83a-36f5cee830e9.jpg?w=740&h=436.59999999999997&fit=crop&crop=faces&auto=format&q=70"
+    }, {
+      "id": 2,
+      "author": "Zoe Weiner",
+      "headline": "Succulent Hair is the Newest Must=Try Dye Trend",
+      "content": "As someone who has yet to keep a succulent (or any plant, for that matter) alive for more than a few weeks, there is a new multi-colored hairdo is officially the best new way to get in on the cactus-collecting trend without having to worry about the care of a living organism. 'Succulent hair' is the newest dye trend to hit the internet, and (rather surprisingly) it's seriously beautiful. So what is succulent hair, exactly?",
+      "tags": "fashion",
+      "image": "https://typeset-beta.imgix.net/rehost/2016/10/25/aa7e2157-6fe1-487d-bf78-bef7288532b6.jpg?w=740&h=436.59999999999997&fit=crop&crop=faces&auto=format&q=70"
+    }, {
+      "id": 3,
+      "author": "Kristen Nunez",
+      "headline": "Easy Halloween Costume Ideas",
+      "content": "The days leading up to Halloween can be pretty crazy. It is not unlikely to suddenly realize that you don’t have an outfit, resulting in an intense brainstorm session for a last-minute easy Halloween costume idea. And since store-bought ensembles can cost a pretty penny, it is never a bad idea to try and curate an outfit yourself. It also helps to use ordinary items that can be used again instead of collecting dust in the depths of your closet.",
+      "tags": "lifestyle",
+      "image": "https://typeset-beta.imgix.net/rehost/2016/10/23/01f3ec9d-69af-4b2e-8670-d36c9ff342b4.jpg?w=740&h=436.59999999999997&fit=crop&crop=faces&auto=format&q=70"
+    }
+  ]
+}
